@@ -3,7 +3,7 @@ import { MhdSahlLogo } from '@/components/layout/MhdSahlLogo'
 
 const socials = [
   // { href: 'https://github.com/sahlmhd', label: 'GitHub', Icon: Github },
-  { href: 'www.linkedin.com/in/sahlmhdoo7', label: 'LinkedIn', Icon: Linkedin },
+  { href: 'https://www.linkedin.com/in/sahlmhdoo7', label: 'LinkedIn', Icon: Linkedin },
   { href: 'mailto:sahlmhd007@gmail.com', label: 'Email', Icon: Mail },
 ]
 
